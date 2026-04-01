@@ -22,3 +22,19 @@ Unfortunately for me, while I had done some research on work on the problem, I h
 In light of this, I believe I will be primarily cleaning up the project and then considering it finished. While I hope to continue working on this problem in the future, it is unfortunately the case that any solution for n=6 would not be one what could be properly represented by a computer, at least in such a simplistic way. Despite this, I've really enjoyed working on this project, and the deeper understanding of the larger problem it has provided.
 
 Anyone is free to use and adapt the code herein as they see fit, as long as I am creditted for it. I hope someone finds a way to apply this work productively, even if it isn't me. :)
+
+# The actual README part
+
+exclusion ring.py is the main class for all things generation. Parameters are set internally (found near the top of the file) and the numeric ones (not the file names) are output at run time to assist with labeling. 
+The main parameters to note are:
+ - cn: the number of colors to use. for all my searching this was 6
+ - n: the number of iterations to run. I found very little return after the first few thousand, so I would not suggest putting about 5000 at the absolute max, and even on a powerful pc that will take several hours for a modest grid size
+ - gsz: the grid size. from the assumption of a repeating tiling above, this is the size of the repeating tiling, so exclusion rings wrap around the edges of the grid. while the area doesn't have to be square, I never saw much of a reason to implement a non square region, but inputting an image *should* handle non square images
+ - rsq: how many squares equals 1 unit. In other words, the grid scale is one square equals 1/rsq unit.
+
+The interplay between rsq and gsz largely determines the behavior of the generation. In particular, since there's no benefit to rsq > gsz, the current implementation will not handle that properly. In addition, I found that when rsq/gsz is greater than around 1/root(2), the generation becomes incredible unstable, and generally does not produce anything of value. The reason why can be seen from the exclusion ring - at those scales, the exclusion ring wraps back and forth over the grid so much as to occupy most of it, preventing large regions from forming.
+
+In additon to the input and output grids, the program produces a before and after density grid. You can see the details in the code, but the general idea is that a pure green pixel indicates that cell has zero collisions, and more collisions means redder cells, up to a theoretical maximum at 64% of possible collisions. From these images, you can see that even in cases where it looks to be getting close, strips of problem pixels run between the regions with no real way to resolve them.
+
+
+There are various other auxillary programs I've created in the process of working on this, and those will be uploaded once they are cleaned up.
