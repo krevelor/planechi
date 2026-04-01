@@ -1,0 +1,102 @@
+generation 0
+
+average number of collisions: 24.2 (0.16805555555555554)
+smallest count: 13.0
+largest count: 39.0
+
+generation 10
+
+average number of collisions: 19.47 (0.13520833333333332)
+smallest count: 3.0
+largest count: 36.0
+
+generation 20
+
+average number of collisions: 14.35 (0.09965277777777777)
+smallest count: 2.0
+largest count: 38.0
+
+generation 30
+
+average number of collisions: 7.755 (0.05385416666666667)
+smallest count: 0.0
+largest count: 36.0
+
+generation 40
+
+average number of collisions: 4.92 (0.034166666666666665)
+smallest count: 0.0
+largest count: 34.0
+
+generation 50
+
+average number of collisions: 4.17 (0.028958333333333332)
+smallest count: 0.0
+largest count: 30.0
+
+generation 60
+
+average number of collisions: 3.31 (0.02298611111111111)
+smallest count: 0.0
+largest count: 25.0
+
+generation 70
+
+average number of collisions: 2.89 (0.020069444444444445)
+smallest count: 0.0
+largest count: 19.0
+
+generation 80
+
+average number of collisions: 2.73 (0.018958333333333334)
+smallest count: 0.0
+largest count: 23.0
+
+generation 92
+
+average number of collisions: 2.64 (0.018333333333333333)
+smallest count: 0.0
+largest count: 21.0
+
+generation 116
+
+average number of collisions: 2.575 (0.017881944444444447)
+smallest count: 0.0
+largest count: 24.0
+
+generation 126
+
+average number of collisions: 2.24 (0.015555555555555557)
+smallest count: 0.0
+largest count: 26.0
+
+generation 136
+
+average number of collisions: 2.115 (0.014687500000000001)
+smallest count: 0.0
+largest count: 24.0
+
+generation 146
+
+average number of collisions: 2.005 (0.01392361111111111)
+smallest count: 0.0
+largest count: 32.0
+
+generation 156
+
+average number of collisions: 1.77 (0.012291666666666666)
+smallest count: 0.0
+largest count: 18.0
+
+generation 175
+
+average number of collisions: 1.695 (0.011770833333333335)
+smallest count: 0.0
+largest count: 23.0
+
+generation 185
+
+average number of collisions: 1.69 (0.01173611111111111)
+smallest count: 0.0
+largest count: 20.0
+

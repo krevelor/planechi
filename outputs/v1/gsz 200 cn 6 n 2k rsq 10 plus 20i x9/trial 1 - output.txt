@@ -1,0 +1,786 @@
+generation 0
+
+average number of collisions: 24.02205 (0.16681979166666666)
+smallest count: 6.0
+largest count: 45.0
+
+generation 10
+
+average number of collisions: 17.47135 (0.12132881944444446)
+smallest count: 0.0
+largest count: 51.0
+
+generation 20
+
+average number of collisions: 11.69155 (0.08119131944444444)
+smallest count: 0.0
+largest count: 54.0
+
+generation 30
+
+average number of collisions: 8.10355 (0.05627465277777778)
+smallest count: 0.0
+largest count: 58.0
+
+generation 40
+
+average number of collisions: 6.3331 (0.04397986111111111)
+smallest count: 0.0
+largest count: 52.0
+
+generation 50
+
+average number of collisions: 5.2816 (0.03667777777777778)
+smallest count: 0.0
+largest count: 56.0
+
+generation 60
+
+average number of collisions: 4.69125 (0.032578125)
+smallest count: 0.0
+largest count: 54.0
+
+generation 70
+
+average number of collisions: 4.28245 (0.02973923611111111)
+smallest count: 0.0
+largest count: 56.0
+
+generation 80
+
+average number of collisions: 3.97485 (0.027603125)
+smallest count: 0.0
+largest count: 50.0
+
+generation 90
+
+average number of collisions: 3.8043 (0.02641875)
+smallest count: 0.0
+largest count: 56.0
+
+generation 100
+
+average number of collisions: 3.581 (0.024868055555555556)
+smallest count: 0.0
+largest count: 62.0
+
+generation 110
+
+average number of collisions: 3.43185 (0.023832291666666665)
+smallest count: 0.0
+largest count: 56.0
+
+generation 120
+
+average number of collisions: 3.35325 (0.023286458333333333)
+smallest count: 0.0
+largest count: 55.0
+
+generation 130
+
+average number of collisions: 3.2113 (0.022300694444444446)
+smallest count: 0.0
+largest count: 56.0
+
+generation 140
+
+average number of collisions: 3.11635 (0.021641319444444446)
+smallest count: 0.0
+largest count: 54.0
+
+generation 150
+
+average number of collisions: 3.0367 (0.021088194444444444)
+smallest count: 0.0
+largest count: 51.0
+
+generation 160
+
+average number of collisions: 2.9436 (0.020441666666666667)
+smallest count: 0.0
+largest count: 47.0
+
+generation 170
+
+average number of collisions: 2.9183 (0.02026597222222222)
+smallest count: 0.0
+largest count: 48.0
+
+generation 180
+
+average number of collisions: 2.8685 (0.01992013888888889)
+smallest count: 0.0
+largest count: 46.0
+
+generation 190
+
+average number of collisions: 2.83885 (0.01971423611111111)
+smallest count: 0.0
+largest count: 48.0
+
+generation 200
+
+average number of collisions: 2.77895 (0.01929826388888889)
+smallest count: 0.0
+largest count: 45.0
+
+generation 210
+
+average number of collisions: 2.734 (0.01898611111111111)
+smallest count: 0.0
+largest count: 50.0
+
+generation 220
+
+average number of collisions: 2.6864 (0.018655555555555554)
+smallest count: 0.0
+largest count: 49.0
+
+generation 230
+
+average number of collisions: 2.6721 (0.01855625)
+smallest count: 0.0
+largest count: 49.0
+
+generation 240
+
+average number of collisions: 2.608 (0.018111111111111113)
+smallest count: 0.0
+largest count: 52.0
+
+generation 250
+
+average number of collisions: 2.5893 (0.01798125)
+smallest count: 0.0
+largest count: 54.0
+
+generation 261
+
+average number of collisions: 2.57255 (0.017864930555555558)
+smallest count: 0.0
+largest count: 48.0
+
+generation 271
+
+average number of collisions: 2.5297 (0.01756736111111111)
+smallest count: 0.0
+largest count: 52.0
+
+generation 281
+
+average number of collisions: 2.50735 (0.01741215277777778)
+smallest count: 0.0
+largest count: 54.0
+
+generation 291
+
+average number of collisions: 2.4776 (0.017205555555555554)
+smallest count: 0.0
+largest count: 55.0
+
+generation 301
+
+average number of collisions: 2.466 (0.017125)
+smallest count: 0.0
+largest count: 46.0
+
+generation 311
+
+average number of collisions: 2.4652 (0.017119444444444444)
+smallest count: 0.0
+largest count: 48.0
+
+generation 321
+
+average number of collisions: 2.4273 (0.01685625)
+smallest count: 0.0
+largest count: 50.0
+
+generation 331
+
+average number of collisions: 2.4068 (0.01671388888888889)
+smallest count: 0.0
+largest count: 46.0
+
+generation 341
+
+average number of collisions: 2.38375 (0.016553819444444444)
+smallest count: 0.0
+largest count: 46.0
+
+generation 351
+
+average number of collisions: 2.37095 (0.016464930555555556)
+smallest count: 0.0
+largest count: 52.0
+
+generation 361
+
+average number of collisions: 2.35025 (0.016321180555555554)
+smallest count: 0.0
+largest count: 53.0
+
+generation 371
+
+average number of collisions: 2.33555 (0.01621909722222222)
+smallest count: 0.0
+largest count: 52.0
+
+generation 384
+
+average number of collisions: 2.3197 (0.016109027777777778)
+smallest count: 0.0
+largest count: 52.0
+
+generation 398
+
+average number of collisions: 2.3078 (0.01602638888888889)
+smallest count: 0.0
+largest count: 46.0
+
+generation 408
+
+average number of collisions: 2.30595 (0.01601354166666667)
+smallest count: 0.0
+largest count: 52.0
+
+generation 418
+
+average number of collisions: 2.28865 (0.015893402777777777)
+smallest count: 0.0
+largest count: 44.0
+
+generation 428
+
+average number of collisions: 2.2729 (0.01578402777777778)
+smallest count: 0.0
+largest count: 58.0
+
+generation 438
+
+average number of collisions: 2.2533 (0.015647916666666664)
+smallest count: 0.0
+largest count: 49.0
+
+generation 448
+
+average number of collisions: 2.2348 (0.015519444444444443)
+smallest count: 0.0
+largest count: 59.0
+
+generation 464
+
+average number of collisions: 2.23015 (0.015487152777777779)
+smallest count: 0.0
+largest count: 53.0
+
+generation 474
+
+average number of collisions: 2.2116 (0.015358333333333331)
+smallest count: 0.0
+largest count: 54.0
+
+generation 484
+
+average number of collisions: 2.2014 (0.0152875)
+smallest count: 0.0
+largest count: 56.0
+
+generation 498
+
+average number of collisions: 2.19555 (0.015246875)
+smallest count: 0.0
+largest count: 46.0
+
+generation 508
+
+average number of collisions: 2.1805 (0.01514236111111111)
+smallest count: 0.0
+largest count: 53.0
+
+generation 520
+
+average number of collisions: 2.1748 (0.015102777777777777)
+smallest count: 0.0
+largest count: 53.0
+
+generation 531
+
+average number of collisions: 2.1626 (0.015018055555555555)
+smallest count: 0.0
+largest count: 55.0
+
+generation 549
+
+average number of collisions: 2.1607 (0.01500486111111111)
+smallest count: 0.0
+largest count: 49.0
+
+generation 559
+
+average number of collisions: 2.1369 (0.014839583333333331)
+smallest count: 0.0
+largest count: 46.0
+
+generation 574
+
+average number of collisions: 2.1327 (0.014810416666666666)
+smallest count: 0.0
+largest count: 52.0
+
+generation 584
+
+average number of collisions: 2.1314 (0.01480138888888889)
+smallest count: 0.0
+largest count: 47.0
+
+generation 594
+
+average number of collisions: 2.12685 (0.014769791666666667)
+smallest count: 0.0
+largest count: 47.0
+
+generation 604
+
+average number of collisions: 2.11615 (0.014695486111111112)
+smallest count: 0.0
+largest count: 52.0
+
+generation 615
+
+average number of collisions: 2.11015 (0.014653819444444445)
+smallest count: 0.0
+largest count: 50.0
+
+generation 625
+
+average number of collisions: 2.0912 (0.014522222222222223)
+smallest count: 0.0
+largest count: 62.0
+
+generation 635
+
+average number of collisions: 2.08635 (0.014488541666666667)
+smallest count: 0.0
+largest count: 56.0
+
+generation 648
+
+average number of collisions: 2.08555 (0.014482986111111111)
+smallest count: 0.0
+largest count: 50.0
+
+generation 661
+
+average number of collisions: 2.07745 (0.014426736111111109)
+smallest count: 0.0
+largest count: 45.0
+
+generation 685
+
+average number of collisions: 2.0771 (0.014424305555555557)
+smallest count: 0.0
+largest count: 54.0
+
+generation 695
+
+average number of collisions: 2.0759 (0.01441597222222222)
+smallest count: 0.0
+largest count: 48.0
+
+generation 705
+
+average number of collisions: 2.06975 (0.014373263888888889)
+smallest count: 0.0
+largest count: 54.0
+
+generation 715
+
+average number of collisions: 2.0592 (0.0143)
+smallest count: 0.0
+largest count: 48.0
+
+generation 725
+
+average number of collisions: 2.05695 (0.014284375)
+smallest count: 0.0
+largest count: 52.0
+
+generation 735
+
+average number of collisions: 2.03755 (0.014149652777777778)
+smallest count: 0.0
+largest count: 54.0
+
+generation 748
+
+average number of collisions: 2.0326 (0.014115277777777777)
+smallest count: 0.0
+largest count: 55.0
+
+generation 761
+
+average number of collisions: 2.02385 (0.014054513888888889)
+smallest count: 0.0
+largest count: 50.0
+
+generation 772
+
+average number of collisions: 2.01105 (0.013965625)
+smallest count: 0.0
+largest count: 48.0
+
+generation 790
+
+average number of collisions: 2.0095 (0.013954861111111112)
+smallest count: 0.0
+largest count: 58.0
+
+generation 800
+
+average number of collisions: 1.9971 (0.013868750000000001)
+smallest count: 0.0
+largest count: 57.0
+
+generation 810
+
+average number of collisions: 1.98565 (0.01378923611111111)
+smallest count: 0.0
+largest count: 47.0
+
+generation 821
+
+average number of collisions: 1.9813 (0.013759027777777778)
+smallest count: 0.0
+largest count: 52.0
+
+generation 831
+
+average number of collisions: 1.97865 (0.013740625)
+smallest count: 0.0
+largest count: 49.0
+
+generation 841
+
+average number of collisions: 1.9736 (0.013705555555555556)
+smallest count: 0.0
+largest count: 55.0
+
+generation 851
+
+average number of collisions: 1.96485 (0.013644791666666666)
+smallest count: 0.0
+largest count: 47.0
+
+generation 861
+
+average number of collisions: 1.96405 (0.013639236111111112)
+smallest count: 0.0
+largest count: 45.0
+
+generation 871
+
+average number of collisions: 1.9507 (0.013546527777777779)
+smallest count: 0.0
+largest count: 49.0
+
+generation 881
+
+average number of collisions: 1.94835 (0.013530208333333333)
+smallest count: 0.0
+largest count: 53.0
+
+generation 894
+
+average number of collisions: 1.94305 (0.013493402777777778)
+smallest count: 0.0
+largest count: 54.0
+
+generation 909
+
+average number of collisions: 1.9427 (0.013490972222222224)
+smallest count: 0.0
+largest count: 45.0
+
+generation 921
+
+average number of collisions: 1.9404 (0.013474999999999999)
+smallest count: 0.0
+largest count: 46.0
+
+generation 931
+
+average number of collisions: 1.93045 (0.013405902777777777)
+smallest count: 0.0
+largest count: 52.0
+
+generation 941
+
+average number of collisions: 1.9288 (0.013394444444444445)
+smallest count: 0.0
+largest count: 46.0
+
+generation 958
+
+average number of collisions: 1.92675 (0.013380208333333332)
+smallest count: 0.0
+largest count: 48.0
+
+generation 969
+
+average number of collisions: 1.92405 (0.013361458333333333)
+smallest count: 0.0
+largest count: 54.0
+
+generation 980
+
+average number of collisions: 1.9145 (0.01329513888888889)
+smallest count: 0.0
+largest count: 47.0
+
+generation 1014
+
+average number of collisions: 1.91415 (0.013292708333333333)
+smallest count: 0.0
+largest count: 45.0
+
+generation 1039
+
+average number of collisions: 1.9059 (0.013235416666666666)
+smallest count: 0.0
+largest count: 53.0
+
+generation 1051
+
+average number of collisions: 1.90285 (0.01321423611111111)
+smallest count: 0.0
+largest count: 54.0
+
+generation 1062
+
+average number of collisions: 1.9012 (0.013202777777777779)
+smallest count: 0.0
+largest count: 44.0
+
+generation 1072
+
+average number of collisions: 1.89175 (0.013137152777777779)
+smallest count: 0.0
+largest count: 46.0
+
+generation 1085
+
+average number of collisions: 1.88795 (0.013110763888888889)
+smallest count: 0.0
+largest count: 49.0
+
+generation 1095
+
+average number of collisions: 1.88695 (0.013103819444444444)
+smallest count: 0.0
+largest count: 45.0
+
+generation 1105
+
+average number of collisions: 1.88165 (0.013067013888888888)
+smallest count: 0.0
+largest count: 56.0
+
+generation 1121
+
+average number of collisions: 1.87825 (0.013043402777777777)
+smallest count: 0.0
+largest count: 51.0
+
+generation 1136
+
+average number of collisions: 1.8663 (0.012960416666666667)
+smallest count: 0.0
+largest count: 49.0
+
+generation 1152
+
+average number of collisions: 1.8604 (0.012919444444444445)
+smallest count: 0.0
+largest count: 45.0
+
+generation 1221
+
+average number of collisions: 1.8573 (0.012897916666666667)
+smallest count: 0.0
+largest count: 54.0
+
+generation 1231
+
+average number of collisions: 1.8558 (0.0128875)
+smallest count: 0.0
+largest count: 48.0
+
+generation 1275
+
+average number of collisions: 1.84715 (0.012827430555555555)
+smallest count: 0.0
+largest count: 43.0
+
+generation 1293
+
+average number of collisions: 1.83735 (0.012759375)
+smallest count: 0.0
+largest count: 53.0
+
+generation 1325
+
+average number of collisions: 1.8372 (0.012758333333333333)
+smallest count: 0.0
+largest count: 43.0
+
+generation 1336
+
+average number of collisions: 1.8276 (0.012691666666666665)
+smallest count: 0.0
+largest count: 52.0
+
+generation 1349
+
+average number of collisions: 1.81555 (0.012607986111111111)
+smallest count: 0.0
+largest count: 55.0
+
+generation 1387
+
+average number of collisions: 1.81395 (0.012596875)
+smallest count: 0.0
+largest count: 54.0
+
+generation 1397
+
+average number of collisions: 1.7937 (0.01245625)
+smallest count: 0.0
+largest count: 51.0
+
+generation 1412
+
+average number of collisions: 1.79235 (0.012446875000000001)
+smallest count: 0.0
+largest count: 52.0
+
+generation 1427
+
+average number of collisions: 1.78605 (0.012403125)
+smallest count: 0.0
+largest count: 46.0
+
+generation 1467
+
+average number of collisions: 1.7852 (0.012397222222222221)
+smallest count: 0.0
+largest count: 49.0
+
+generation 1515
+
+average number of collisions: 1.78265 (0.01237951388888889)
+smallest count: 0.0
+largest count: 49.0
+
+generation 1532
+
+average number of collisions: 1.78065 (0.012365625)
+smallest count: 0.0
+largest count: 52.0
+
+generation 1543
+
+average number of collisions: 1.777 (0.012340277777777776)
+smallest count: 0.0
+largest count: 44.0
+
+generation 1560
+
+average number of collisions: 1.77395 (0.01231909722222222)
+smallest count: 0.0
+largest count: 56.0
+
+generation 1595
+
+average number of collisions: 1.76565 (0.012261458333333333)
+smallest count: 0.0
+largest count: 59.0
+
+generation 1653
+
+average number of collisions: 1.76365 (0.012247569444444445)
+smallest count: 0.0
+largest count: 45.0
+
+generation 1699
+
+average number of collisions: 1.7596 (0.012219444444444444)
+smallest count: 0.0
+largest count: 46.0
+
+generation 1717
+
+average number of collisions: 1.7571 (0.012202083333333334)
+smallest count: 0.0
+largest count: 54.0
+
+generation 1735
+
+average number of collisions: 1.75035 (0.012155208333333334)
+smallest count: 0.0
+largest count: 48.0
+
+generation 1745
+
+average number of collisions: 1.7441 (0.012111805555555556)
+smallest count: 0.0
+largest count: 49.0
+
+generation 1755
+
+average number of collisions: 1.73655 (0.012059375)
+smallest count: 0.0
+largest count: 49.0
+
+generation 1777
+
+average number of collisions: 1.7341 (0.012042361111111111)
+smallest count: 0.0
+largest count: 54.0
+
+generation 1787
+
+average number of collisions: 1.73065 (0.012018402777777777)
+smallest count: 0.0
+largest count: 42.0
+
+generation 1816
+
+average number of collisions: 1.7249 (0.011978472222222224)
+smallest count: 0.0
+largest count: 52.0
+
+generation 1869
+
+average number of collisions: 1.72435 (0.011974652777777779)
+smallest count: 0.0
+largest count: 46.0
+
+generation 1940
+
+average number of collisions: 1.72145 (0.011954513888888888)
+smallest count: 0.0
+largest count: 47.0
+
+generation 1958
+
+average number of collisions: 1.71855 (0.011934375)
+smallest count: 0.0
+largest count: 57.0
+
+generation 1968
+
+average number of collisions: 1.71655 (0.01192048611111111)
+smallest count: 0.0
+largest count: 42.0
+
