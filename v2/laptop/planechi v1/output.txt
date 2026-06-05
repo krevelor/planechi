@@ -1,0 +1,12 @@
+generation 0
+
+average number of collisions: 24.745 (0.17184027777777777)
+smallest count: 9.0
+largest count: 47.0
+
+generation 10
+
+average number of collisions: 15.88 (0.11027777777777778)
+smallest count: 2.0
+largest count: 46.0
+

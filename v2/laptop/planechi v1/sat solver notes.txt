@@ -1,0 +1,75 @@
+sat stuff
+[[ 0, 1, 1, 0, 0, 0, 1 ],
+ [ 1, 0, 1, 1, 0, 0, 0 ],
+ [ 1, 1, 0, 1, 0, 0, 0 ],
+ [ 0, 1, 1, 0, 1, 1, 0 ],
+ [ 0, 0, 0, 1, 0, 1, 1 ],
+ [ 0, 0, 0, 1, 1, 0, 1 ],
+ [ 1, 0, 0, 0, 1, 1, 0 ]]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+need V*colnum colorvariables
+call v4 color 3 x43
+
+for rules need "vertex n is one color"
+
+n is at least one color
+-> xn0 | xn1 | xn2 ...
+n is not two colors at once
+...
+-xni | -xnj &
+...
+for all i =/= j < colornum
+
+
+need "edge mn -> m and n are not both color c"
+
+eg
+edge 01 exists
+-> v0 and v1 are not same color
+-> -x00 | -x10 &
+-x01 | -x11 &
+-x02 | -x02 &
+etc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(assume graph is upper 4x4 of spindle for now and color num = 3)
+(pseudocode down to just var names. can do and check text replace down to code easy enough)
+p cnf 12 27\n
+c n is at least one color\n
+x00 x01 x02 0\n
+x10 x11 x12 0\n
+x20 x21 x22 0\n
+c n is not two colors at once\n
+-x00 -x01 0\n
+-x00 -x02 0\n
+-x01 -x02 0\n
+-x10 -x11 0\n
+-x10 -x12 0\n
+-x11 -x12 0\n
+-x20 -x21 0\n
+-x20 -x22 0\n
+-x21 -x22 0\n
+c edges\n
+c edge 01\n
+-x00 -x10 0\n
+-x01 -x11 0\n
+-x02 -x12 0\n
+c edge 02\n
+-x00 -x20 0\n
+-x01 -x21 0\n
+-x02 -x22 0\n
+c edge 12\n
+-x10 -x20 0\n
+-x11 -x21 0\n
+-x12 -x22 0\n
+c edge 13\n
+-x10 -x30 0\n
+-x11 -x31 0\n
+-x12 -x32 0\n
+c edge 23\n
+-x20 -x30 0\n
+-x21 -x31 0\n
+-x22 -x32 0\n
